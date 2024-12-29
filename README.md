@@ -1,4 +1,4 @@
 [
-    ".tag-ymds159",
-    ".tag-dldss250"
+    "tag-ymds159",
+    "tag-dldss250"
 ]
